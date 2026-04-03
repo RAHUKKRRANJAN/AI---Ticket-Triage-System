@@ -9,7 +9,7 @@ It is intentionally simple, explainable, and production-friendly:
 
 ## Quick Start
 ```bash
-git clone <repo>
+git clone https://github.com/RAHUKKRRANJAN/AI---Ticket-Triage-System
 cd ticket-triage
 docker-compose up --build
 # Frontend: http://localhost:3000
